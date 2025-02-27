@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1px">
+
+    <th>DISCIPLINA</th>
+    <th>PROFESSOR</th>
+    <th>CURSOS</th>
+    
+
+     <tr>
+            <td>MATEMATICA</td>
+            <td>PROFESSOR WANDERLEY</td>
+            <td>BANCO DE DADOS</td>
+            
+     </tr>  
+
+     <tr>
+        <td>PORTUGUÊS</td>
+        <td>PROFESSOR ZE PILINTRA</td>
+        <td>MARÇONARIA</td>
+        
+        <tr>
+            <td>MECÂNICA</td>
+            <td>FLAVIN DO PNEU</td>
+            <td>MECANICO</td>
+            
+     </tr>  
+
+     <tr>
+        <td>SEVENTE DE PEDREIRO</td>
+        <td>VAGNIN</td>
+        <td>PEDREIRO</td>
+        
+ </tr>  
+
+
+
+
+
+
+
+    </table>
+    
+</body>
+
+<title>Cadastro do aluno</title>
+<link rel="stylesheet" type="text/css"
+
+</html>
